@@ -1,7 +1,7 @@
 # ICS1010_Project
 Rescue The Princess Game
 
-HI, Here's how to run Rescue the Princess:
+Hi, Here's how to run Rescue the Princess:
 
   1. The code will start by asking the dimensions of the board which must be entered as 3 space seperated integers.
   2. Then it will go for coordinates of princess and mario, also need to be added as 3 space seperated integers.
