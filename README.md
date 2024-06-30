@@ -1,5 +1,4 @@
-# ICS1010_Project
-Rescue The Princess Game
+# ICS1010_Project: Rescue The Princess Game
 
 Hi, Here's how to run Rescue the Princess:
 
@@ -14,3 +13,8 @@ Here is an example:
   3. Code will then display if the game can be won or not and the steps to win if it is possible to win!!!!
 
      ![Screenshot (70)](https://github.com/Shreyansh9878/ICS_CP_BinaryBombshells/assets/141743001/734f9c07-709a-4375-b35a-d96d16a6aaa9)
+
+## About the Project:
+- It gives optimal path for Mario to save the princess with given no. of monsters.
+- In this Game the monsters are intelligent that means when Mario moves one step, monsters also move one step in the direction of princess or Mario depending upon their distance from them.
+  
